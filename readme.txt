@@ -1,0 +1,1 @@
+This repository is used for git lesson 3 homework.
